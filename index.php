@@ -4,7 +4,7 @@
 
 $sessionId = $_POST["sessionId"];
 $serviceCode = $_POST["serviceCode"];
-$phoneNumber = "09065798971";//$_POST["phoneNumber"];
+$phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
 $message = "Happy people";
 $password = "";
